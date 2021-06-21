@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C/C++
 - 📫 How to reach me Discord: haxxd#0001
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skibop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Skibop's GitHub stats](https://github-readme-stats.vercel.app/api?username=skibop&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skibop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
